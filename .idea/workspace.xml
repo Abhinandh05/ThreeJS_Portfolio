@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23413293-04c0-4fb9-8144-db952b7b3646" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sections/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Footer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/@react-three_drei.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/@react-three_drei.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/leva.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/leva.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-globe__gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react-globe__gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Contact.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +95,7 @@
       <workItem from="1754067077345" duration="116000" />
       <workItem from="1754142798176" duration="590000" />
       <workItem from="1754143407987" duration="1544000" />
-      <workItem from="1754145102545" duration="3112000" />
+      <workItem from="1754145102545" duration="6771000" />
     </task>
     <servers />
   </component>
